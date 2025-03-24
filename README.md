@@ -1,74 +1,83 @@
-<h1 align="center">Hi there, I'm Teja-Pravallika 👋</h1>
+<h1 align="center">👋 Hi, I'm Teja-Pravallika</h1>
 
 <p align="center">
-🎓 Computer Science Grad | 🤖 ML Enthusiast | 🔐 AI Security Researcher | 💡 Lifelong Learner  
+  🎓 Computer Science Grad • 🤖 ML & NLP Enthusiast • 🔐 AI Security Researcher • 🌱 Lifelong Learner  
 </p>
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
-I'm a passionate and curious Computer Science graduate from **Northern Arizona University**, currently working as a **Research Assistant** on AI Security. My research focuses on the **vulnerabilities of Multimodal Large Language Models (MLLMs)** — particularly **prompt injection attacks**, and how to build safer, more robust LLMs.
+I'm a curious and passionate Computer Science graduate from **Northern Arizona University**, currently working as a **Research Assistant** exploring **AI Security**. My work focuses on identifying and mitigating **vulnerabilities in Multimodal Large Language Models (MLLMs)** — especially **prompt injection attacks**.  
 
----
-
-### 🚀 What I Do
-
-- 🔬 **Research Assistant** working on adversarial testing of LLMs and prompt injection attacks.
-- 🤖 Build ML/NLP models that interpret, classify, and explain real-world data.
-- 🧠 Fine-tune and distill transformer-based models for tone and emotion prediction.
-- 📱 Designed and evaluated ML-based Android malware detection systems.
+I enjoy working at the intersection of **LLMs**, **machine learning**, and **cybersecurity**, aiming to build **robust and trustworthy AI systems**.
 
 ---
 
-### 🛠️ Tech & Tools
+## 🚀 What I Do
 
-<p align="left">
+- 🔬 Conduct research on **adversarial attacks** in LLMs (prompt injection, jailbreaks, robustness)
+- 🧠 Fine-tune and distill **transformer-based models** for emotion and tone classification
+- 🤖 Build intelligent systems for **text analysis**, **malware detection**, and **emotion modeling**
+- 📱 Developed ML-based systems for **Android malware detection** using hybrid feature sets
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-lightblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-GPT--4-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 🧠 Current Focus
+## 💼 Notable Projects
 
-- 🔍 Exploring adversarial vulnerabilities in LLMs (prompt injection, jailbreaks, robustness)
-- 📊 Improving model interpretability and explainability in NLP pipelines
-- 🌐 Learning about multimodal learning and vision-language architectures
+### 🎬 Emotional Tone Prediction in Movie Descriptions  
+Built a robust emotion classifier using **RoBERTa** fine-tuned with **GPT-4o-mini** guidance. Achieved over **95% accuracy** across **29 emotional tones** in movie plots.
 
----
-
-### 💼 Projects Highlight
-
-- 🎬 **Emotional Tone Prediction in Movie Descriptions**  
-  Fine-tuned RoBERTa + GPT-4o-mini distillation model to classify 29 emotional tones with >95% accuracy.
-
-- 🛡️ **Android Malware Detection Using ML**  
-  Trained and evaluated models using 489 static & dynamic features across emulator and real-device datasets.
+### 🛡️ Android Malware Detection using Machine Learning  
+Developed a malware detection pipeline using **489 hybrid features** (static & dynamic) across emulator and real device datasets. Evaluated with **tree-based** and **neural models**.
 
 ---
 
-### 🤝 Let’s Connect
+## 🔍 Current Focus
 
-- 💬 Open to collaboration in ML research, AI security, and NLP applications.
-- 📫 Reach me at:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teja-pravallika-nandamuri-81b600262/)
-  &nbsp;
-  📧 Email: `teja.nandamuri@gmail.com`
+- 🧪 Researching adversarial prompting and LLM vulnerabilities
+- 📊 Improving explainability and interpretability in NLP pipelines
+- 🌐 Exploring multimodal learning and vision-language integration
 
 ---
 
-### 🌈 Fun Facts
-
-- 😄 Pronouns: **She/Her**  
-- ⚡ Fun Fact: I blend creativity with AI — whether predicting emotions in stories or making LLMs safer, I love working at the intersection of human expression and technology.
-
----
+## 🤝 Let’s Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teja-Pravallika&show_icons=true&theme=radical" alt="Teja's GitHub Stats" />
+  <a href="https://www.linkedin.com/in/teja-pravallika-nandamuri-81b600262/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:teja.nandamuri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌈 Fun Facts
+
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun Fact: I love combining creativity with AI — from emotion prediction in storytelling to securing large-scale LLMs.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Teja-Pravallika&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
