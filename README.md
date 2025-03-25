@@ -75,8 +75,3 @@ Developed a malware detection pipeline using **489 hybrid features** (static & d
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teja-Pravallika&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
