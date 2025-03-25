@@ -33,7 +33,6 @@ I enjoy working at the intersection of **LLMs**, **machine learning**, and **cyb
   <img src="https://img.shields.io/badge/Prompt%20Engineering-lightblue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -62,7 +61,7 @@ Developed a malware detection pipeline using **489 hybrid features** (static & d
   <a href="https://www.linkedin.com/in/teja-pravallika-nandamuri-81b600262/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:teja.nandamuri@gmail.com">
+  <a href="mailto:nandamuritejapravallika@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
